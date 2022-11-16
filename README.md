@@ -33,5 +33,5 @@ Hello, I am Shivani Gandhi! <img src="https://media.giphy.com/media/hvRJCLFzcasr
 ### :fire: My Stats :
 ![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivaniRGandhi&count_private=true&show_icons=true&theme=transparent&title_color=A0849D&text_color=D383B8&icon_color=66545E)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniRGandhi&layout=compact&theme=transparent&title_color=A0849D&text_color=D383B8&icon_color=66545E)](https://github.com/ShivaniRgandhi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniRGandhi&count_private=true&layout=compact&theme=transparent&title_color=A0849D&text_color=D383B8&icon_color=66545E)](https://github.com/ShivaniRgandhi/github-readme-stats)
 
